@@ -1,0 +1,19 @@
+{
+  "name": "genpark-rapidly-exploring-random-tree-rrt-motion-planning-skill",
+  "version": "1.0.0",
+  "description": "Rapidly-exploring Random Tree (RRT) path and motion planner for collision-free robotic navigation in obstacle spaces",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "rrt",
+    "motion-planning",
+    "path-planning",
+    "robotics-navigation",
+    "collision-avoidance",
+    "sampling-based-planning",
+    "python-standard-library",
+    "agent-skills",
+    "autonomous-agents",
+    "spatial-geometry"
+  ]
+}
